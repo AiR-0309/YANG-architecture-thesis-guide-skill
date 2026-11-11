@@ -1,4 +1,4 @@
-# architechture
+# YANG-architecture-thesis-guide-skill
 
 ## 老杨的建筑论文全流程指导
 
@@ -109,14 +109,21 @@
 
 ## 文件内容
 
-- SKILL.md：运行入口与阶段路由。
-- references/workflow.md：五阶段工作规则。
-- references/critical-review.md：严肃审阅、修改顺序及证据边界。
-- references/public-methods.md：公开来源及实际阅读范围。
-- USER_GUIDE.md：材料准备、提问示例、接续与修改方法。
+- [SKILL.md](SKILL.md)：五阶段路由、七项操作方法、三组判断关系、启发式和使用边界。
+- [workflow.md](references/workflow.md)：五阶段工作规则。
+- [critical-review.md](references/critical-review.md)：严肃审阅、修改顺序及证据边界。
+- [casebook.md](references/casebook.md)：10项公开访谈、论文和文章案例。
+- [voice.md](references/voice.md)：公开表达参考及引用边界。
+- [public-methods.md](references/public-methods.md)：公开来源及实际阅读范围。
+- [USER_GUIDE.md](USER_GUIDE.md)：完整用户使用指南。
+- [FIDELITY.md](FIDELITY.md)：验证范围。
+- [PUBLICATION_NOTES.md](PUBLICATION_NOTES.md)：本次发布范围及待确认材料。
 
 ## 范围与验证
 
-这是单独整理的公开资料版本，无私人会议、指导转写、论文原件、个人路径或其测试底稿。五阶段流程与审阅分级为工具设计，未声称由教授本人命名。本公开版尚未独立验证全流程教学效果；不继承本地其他版本的测试成绩。
+本次补齐方法结构和公开来源案例，保留完整使用指南。此版本没有上传非公开会议全文、论文指导摘录、私人来源研究底稿和历史测试答卷；这些文件的公开范围尚待明确确认，因此不能称为全部本地档案的完整上传。
 
-编制流程参考 [女娲·Skill造人术](https://github.com/alchaincyf/nuwa-skill)。公开来源链接留在参考文件中，不分发论文全文。
+五阶段流程、七项操作方法、三组判断关系及审阅分级是工具作者的组织设计，不冒充教授本人命名的体系。公开版未独立验证全流程教学效果，不继承其他本地版本的测试成绩。
+
+编制流程参考[女娲·Skill造人术](https://github.com/alchaincyf/nuwa-skill)。公开来源链接留在参考文件中，不分发论文全文。
+
