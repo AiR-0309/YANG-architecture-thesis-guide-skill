@@ -7,12 +7,12 @@
   {
     "path": "FIDELITY.md",
     "action": "deidentified-text",
-    "sha256": "f63aab1bae556365fa93a0350f01e8484effee7723323f0ea75e2ba325865cc3"
+    "sha256": "cf77317b07dbeb7d78eedca13477040e4dc0adb24a98cf4717b548689b65c5e8"
   },
   {
     "path": "README.md",
     "action": "deidentified-text",
-    "sha256": "5fb714f0a5eb565a04fa951d75b4ed811442f26666e6b89bbd89507fa54439e1"
+    "sha256": "4b8b2f5c5dd8681fcf8ede6dd1396e26568dc2b60c57e271f04cce429a42bcee"
   },
   {
     "path": "references/casebook.md",
@@ -150,16 +150,6 @@
     "sha256": "ac09aabda38cc9656cb68a73d8bdd7e8c4afacb41409ceb4c2ab145d05abb7d7"
   },
   {
-    "path": "SKILL-v1.md",
-    "action": "deidentified-text",
-    "sha256": "7b4f67b8aa9c4e478c9682d79ea4ee048219b41fe34c7d681d8838b451122698"
-  },
-  {
-    "path": "SKILL-v2.md",
-    "action": "deidentified-text",
-    "sha256": "38f04f7910296851ddda071e5eff6b32d70a11babbfd8ba476762417bb71085e"
-  },
-  {
     "path": "SKILL.md",
     "action": "deidentified-text",
     "sha256": "02b40cc37ee0267522713c2f248329d393c916e3efba8d5d49b36d210cd3cad1"
@@ -255,11 +245,6 @@
     "sha256": "3196148be291c42e2682f0585b263add2d0b3c10ff1eaa4b5a228eba47cbc12e"
   },
   {
-    "path": "validation/runtime/SKILL.snapshot.md",
-    "action": "deidentified-text",
-    "sha256": "7b4f67b8aa9c4e478c9682d79ea4ee048219b41fe34c7d681d8838b451122698"
-  },
-  {
     "path": "validation/structure-check.txt",
     "action": "unchanged-text",
     "sha256": "af14383b8efe96fccb64e47cfe23218b254df51c250291847775b02322f07c70"
@@ -315,11 +300,6 @@
     "sha256": "4b53eebbb8b6b1b73309dc38073696a056847560613cf59bf04fe2abf23f2f3b"
   },
   {
-    "path": "validation/v2/runtime-new/SKILL.snapshot.md",
-    "action": "deidentified-text",
-    "sha256": "38f04f7910296851ddda071e5eff6b32d70a11babbfd8ba476762417bb71085e"
-  },
-  {
     "path": "validation/v2/runtime-old/references/casebook.md",
     "action": "deidentified-text",
     "sha256": "34e642fd25b57305b3ca4c2a496a35b4a7e81634d1caa6d04207ab9e6f467495"
@@ -330,11 +310,6 @@
     "sha256": "3196148be291c42e2682f0585b263add2d0b3c10ff1eaa4b5a228eba47cbc12e"
   },
   {
-    "path": "validation/v2/runtime-old/SKILL.snapshot.md",
-    "action": "deidentified-text",
-    "sha256": "7b4f67b8aa9c4e478c9682d79ea4ee048219b41fe34c7d681d8838b451122698"
-  },
-  {
     "path": "validation/v2/structure-check.txt",
     "action": "unchanged-text",
     "sha256": "77777870ea5f9253f10962abe9674057bf91ef33960edcfd29a55880d8cd7584"
@@ -342,7 +317,7 @@
   {
     "path": "PUBLICATION_NOTES.md",
     "action": "publication-document",
-    "sha256": "2bd300c353f39f8e641c7fd8088e58d6a996923ab54eed6f3f4d3df3e8f44fd9"
+    "sha256": "e44fbd59771f0a689cafebab1ea3ea9ef8150298aeca51c6088b7fae35380fa6"
   },
   {
     "path": "references/public-methods.md",

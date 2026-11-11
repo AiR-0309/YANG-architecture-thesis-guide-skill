@@ -9,7 +9,7 @@
 
 ## 下载与加载
 
-下载整个仓库，将含 `SKILL.md`、`USER_GUIDE.md` 与 `references` 的目录作为技能加载。当前入口是根目录 `SKILL.md`，验证目录中的快照只作历史资料。
+下载整个仓库，将含 `SKILL.md`、`USER_GUIDE.md` 与 `references` 的目录作为技能加载。仓库仅保留根目录 `SKILL.md` 这一份最新技能文件。旧版技能及测试用技能快照已从当前文件中移除，需要追溯时可查看 GitHub 提交历史。
 
 ## 用户使用指南
 
