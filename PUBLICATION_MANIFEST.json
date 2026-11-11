@@ -1,0 +1,352 @@
+[
+  {
+    "path": "agents/openai.yaml",
+    "action": "deidentified-text",
+    "sha256": "fbe9a706ceb0b53c79f27dde6aa38fc6854bb043c8cb42dd3bfe6d7cf350c517"
+  },
+  {
+    "path": "FIDELITY.md",
+    "action": "deidentified-text",
+    "sha256": "f63aab1bae556365fa93a0350f01e8484effee7723323f0ea75e2ba325865cc3"
+  },
+  {
+    "path": "README.md",
+    "action": "deidentified-text",
+    "sha256": "5fb714f0a5eb565a04fa951d75b4ed811442f26666e6b89bbd89507fa54439e1"
+  },
+  {
+    "path": "references/casebook.md",
+    "action": "deidentified-text",
+    "sha256": "b6f3663e757d3499cda05d45a6fbdb2af1a224aafb9163623b357229dae3da2a"
+  },
+  {
+    "path": "references/critical-review.md",
+    "action": "unchanged-text",
+    "sha256": "2f8454078a9f0d292c270ccd03a794c61514db9db79d2dd43a6c8bb88e1c3684"
+  },
+  {
+    "path": "references/research/00-prior.md",
+    "action": "deidentified-text",
+    "sha256": "0583bc28c042a4cb2f860fdb4275a99ddc69df90b3e802c72463c63672f726d1"
+  },
+  {
+    "path": "references/research/01-writings.md",
+    "action": "unchanged-text",
+    "sha256": "1da4f561497db2cac40bc5fae528b5f705b1e8815c78b50c0a48095a4c60cae4"
+  },
+  {
+    "path": "references/research/02-conversations.md",
+    "action": "unchanged-text",
+    "sha256": "0f0f4fc56789538f9f095abee3a075d2125b66e6a1bc623e3c22d5d73ac8c83c"
+  },
+  {
+    "path": "references/research/03-expression-dna.md",
+    "action": "unchanged-text",
+    "sha256": "c65fda5665049e9f1ff5e10ad952c081af5ca0a553522e41f0d05a86ab4e0efc"
+  },
+  {
+    "path": "references/research/04-external-views.md",
+    "action": "unchanged-text",
+    "sha256": "68def94d855fc55ac7ff180d68fa5b5cdf1f4bd8318e2d1b277620dad6bc28c3"
+  },
+  {
+    "path": "references/research/05-decisions.md",
+    "action": "deidentified-text",
+    "sha256": "d2215cfe7c08e2e78e6bce166ad8853bd85ff52898194eed0a60cb65d967fbcf"
+  },
+  {
+    "path": "references/research/06-timeline.md",
+    "action": "unchanged-text",
+    "sha256": "974bbaf40bf4a7d87657b157ec0cef9eaa06fc00a1253cd0f296d15f56787479"
+  },
+  {
+    "path": "references/research/07-reading-group-supplement.md",
+    "action": "deidentified-text",
+    "sha256": "2f08424433f34bd9768781d30fcdd9557b4dabd49e33e17320f53b8a817888ec"
+  },
+  {
+    "path": "references/research/08-primary-paper-check.md",
+    "action": "unchanged-text",
+    "sha256": "06930303ba3782cb89ee244df539e575bca900254e76376f4e6a5a0745528f24"
+  },
+  {
+    "path": "references/research/09-reread-papers.md",
+    "action": "unchanged-text",
+    "sha256": "2f9bad8b439a1e6fc70285670bb7bc565e1b2d093f0429231ff9c99ce6c7f174"
+  },
+  {
+    "path": "references/research/10-reread-critique.md",
+    "action": "unchanged-text",
+    "sha256": "11bf9a962eb81ef9e8b1836a94cda728f66a18a4427d9ff84a28df097481c963"
+  },
+  {
+    "path": "references/research/11-review-update.md",
+    "action": "unchanged-text",
+    "sha256": "5272c9c22547843d22b10e09fc969d99f2292ba7cc39e053aa1d7c28b569fe4b"
+  },
+  {
+    "path": "references/research/archive-check.md",
+    "action": "unchanged-text",
+    "sha256": "8938f27ccb337c68858382ecf89a659a5b14d86644b53c0ddccb06b41aaf97ee"
+  },
+  {
+    "path": "references/research/holdout.md",
+    "action": "unchanged-text",
+    "sha256": "1c74f6ec4413343af2255de153ef022dd5c3276ca775ea855752682ff3653a3c"
+  },
+  {
+    "source": "references/sources/reading-imperial-governance.docx",
+    "action": "not-published-original-container",
+    "reason": "同内容转为去标识文本；论文指导原件以匿名方法摘录替代"
+  },
+  {
+    "path": "references/sources/reading-imperial-governance.txt",
+    "action": "deidentified-text",
+    "sha256": "e28830f27f17561bb08a1ddc956b8ec4489b57ee9881d05ea1cebcf290e93e19"
+  },
+  {
+    "source": "references/sources/reading-sociological-imagination.docx",
+    "action": "not-published-original-container",
+    "reason": "同内容转为去标识文本；论文指导原件以匿名方法摘录替代"
+  },
+  {
+    "path": "references/sources/reading-sociological-imagination.txt",
+    "action": "deidentified-text",
+    "sha256": "4301b1392c6f01ed8d7bc7b0f3fc0cde3ba3d17f52fee7a13065dcfe9d3172c7"
+  },
+  {
+    "source": "references/sources/reading-community-boundaries.docx",
+    "action": "not-published-original-container",
+    "reason": "同内容转为去标识文本；论文指导原件以匿名方法摘录替代"
+  },
+  {
+    "path": "references/sources/reading-community-boundaries.txt",
+    "action": "deidentified-text",
+    "sha256": "52f6adbb47bdb876407a78cc074f51ddecb2bb091c118821a7fac680e8f2b52d"
+  },
+  {
+    "source": "references/sources/teacher-guidance-transcript.docx",
+    "action": "not-published-original-container",
+    "reason": "同内容转为去标识文本；论文指导原件以匿名方法摘录替代"
+  },
+  {
+    "path": "references/sources/teacher-guidance-transcript.txt",
+    "action": "deidentified-text",
+    "sha256": "e2c15e01dca59db0a00cb77edc9e26abbd1b0d4f7e588014c4264c2c2935dc05"
+  },
+  {
+    "path": "references/voice.md",
+    "action": "deidentified-text",
+    "sha256": "10e05b302241f07d5755fe52165b3b4e1efc2dacf5ac445569bcc971e830d5f0"
+  },
+  {
+    "path": "references/workflow.md",
+    "action": "unchanged-text",
+    "sha256": "218aae0af31009853588eb3168d1fa8eb97687c4a3fa027a966f6599d3271c19"
+  },
+  {
+    "path": "RESEARCH_SUMMARY.md",
+    "action": "deidentified-text",
+    "sha256": "ac09aabda38cc9656cb68a73d8bdd7e8c4afacb41409ceb4c2ab145d05abb7d7"
+  },
+  {
+    "path": "SKILL-v1.md",
+    "action": "deidentified-text",
+    "sha256": "7b4f67b8aa9c4e478c9682d79ea4ee048219b41fe34c7d681d8838b451122698"
+  },
+  {
+    "path": "SKILL-v2.md",
+    "action": "deidentified-text",
+    "sha256": "38f04f7910296851ddda071e5eff6b32d70a11babbfd8ba476762417bb71085e"
+  },
+  {
+    "path": "SKILL.md",
+    "action": "deidentified-text",
+    "sha256": "02b40cc37ee0267522713c2f248329d393c916e3efba8d5d49b36d210cd3cad1"
+  },
+  {
+    "path": "USER_GUIDE.md",
+    "action": "deidentified-text",
+    "sha256": "bad64fd90d2558bf921633b220f88ff9a9414b4820b592dea9d59bdf46e7b805"
+  },
+  {
+    "path": "validation/answers-r-round1.md",
+    "action": "deidentified-text",
+    "sha256": "bada2d9c053f7cd6732769662000603608f451b7840ab7266ce436e4428010cb"
+  },
+  {
+    "path": "validation/answers-r-round2.md",
+    "action": "deidentified-text",
+    "sha256": "63d871dc69e60d1f178aa20e145fd3c180d824cc4034f3de266a7c17c0a83b58"
+  },
+  {
+    "path": "validation/answers-r.md",
+    "action": "deidentified-text",
+    "sha256": "bada2d9c053f7cd6732769662000603608f451b7840ab7266ce436e4428010cb"
+  },
+  {
+    "path": "validation/answers-s.md",
+    "action": "deidentified-text",
+    "sha256": "73c5a4fae947fba094052db57e5aa5dd1d490ff6ff15523953ed62bda0ba4a09"
+  },
+  {
+    "path": "validation/blind-hold-1.md",
+    "action": "deidentified-text",
+    "sha256": "05a3c6800445f8aaf904dee97fb074fd46ac2362b5fc7cf50e18da7c803202a3"
+  },
+  {
+    "path": "validation/blind-hold-2.md",
+    "action": "deidentified-text",
+    "sha256": "452386658318ec2c5f2b04c020799b48f9f6b1f8ba80b4189c7f0541c901452b"
+  },
+  {
+    "path": "validation/blind-task-1.md",
+    "action": "deidentified-text",
+    "sha256": "1d03563ec1e6f7217a29708028e13e45ae5476dbe09360d7c13b150b1f3fb8cc"
+  },
+  {
+    "path": "validation/blind-task-2.md",
+    "action": "deidentified-text",
+    "sha256": "5ab705f87dd159e842ee887e74b283d3543fd3b2d9558bcbceb36ade731f6417"
+  },
+  {
+    "path": "validation/casebook-v1.md",
+    "action": "deidentified-text",
+    "sha256": "34e642fd25b57305b3ca4c2a496a35b4a7e81634d1caa6d04207ab9e6f467495"
+  },
+  {
+    "path": "validation/FIDELITY-v1.md",
+    "action": "deidentified-text",
+    "sha256": "865ef26f8f4fe13c8a72af27a494a8911a3b871a151cf5af0237f13438eea220"
+  },
+  {
+    "path": "validation/judge-round1.md",
+    "action": "deidentified-text",
+    "sha256": "949d73f653f6adecb1225879c0deb61830d7b9b3adad8ad398e10d241d6e5076"
+  },
+  {
+    "path": "validation/judge-round2.md",
+    "action": "deidentified-text",
+    "sha256": "0aacef584602a609f27c2cb99f09336dfb73aa5e9b6e7b146bf39d2c5efad407"
+  },
+  {
+    "path": "validation/questions.md",
+    "action": "deidentified-text",
+    "sha256": "62bc2b5b006d347ee0164cabe04cc96641badf66b97e52f556c4c4d2f06f468e"
+  },
+  {
+    "path": "validation/round2-candidate-p.md",
+    "action": "deidentified-text",
+    "sha256": "61f640e084c7950fdecb0cca35aafac7c96dbfd8f691e0acd0516d20098315c9"
+  },
+  {
+    "path": "validation/round2-candidate-q.md",
+    "action": "deidentified-text",
+    "sha256": "1d03563ec1e6f7217a29708028e13e45ae5476dbe09360d7c13b150b1f3fb8cc"
+  },
+  {
+    "path": "validation/runtime/references/casebook.md",
+    "action": "deidentified-text",
+    "sha256": "34e642fd25b57305b3ca4c2a496a35b4a7e81634d1caa6d04207ab9e6f467495"
+  },
+  {
+    "path": "validation/runtime/references/voice.md",
+    "action": "deidentified-text",
+    "sha256": "3196148be291c42e2682f0585b263add2d0b3c10ff1eaa4b5a228eba47cbc12e"
+  },
+  {
+    "path": "validation/runtime/SKILL.snapshot.md",
+    "action": "deidentified-text",
+    "sha256": "7b4f67b8aa9c4e478c9682d79ea4ee048219b41fe34c7d681d8838b451122698"
+  },
+  {
+    "path": "validation/structure-check.txt",
+    "action": "unchanged-text",
+    "sha256": "af14383b8efe96fccb64e47cfe23218b254df51c250291847775b02322f07c70"
+  },
+  {
+    "path": "validation/v2/answers-k-followup-g.md",
+    "action": "deidentified-text",
+    "sha256": "e45b2fa816f23d66adc0702b442f26b8bdbe54079fc5aa62e465b7f9b7583b42"
+  },
+  {
+    "path": "validation/v2/answers-k.md",
+    "action": "deidentified-text",
+    "sha256": "b85394d4612c5ab5f112e6131ca5c591bb5708ce0d8a1e70e9a1775182bd5f1d"
+  },
+  {
+    "path": "validation/v2/answers-m.md",
+    "action": "deidentified-text",
+    "sha256": "7c057f6517eedfe7dd5ec0c0dbef3e5278f0fbaab613f99d8832db5041f3cfbf"
+  },
+  {
+    "path": "validation/v2/blind-1.md",
+    "action": "deidentified-text",
+    "sha256": "36d9f9eb0edfea55b0e1d111fbe67b7046b15bfd6403b9bc69d42801e4acb817"
+  },
+  {
+    "path": "validation/v2/blind-2.md",
+    "action": "deidentified-text",
+    "sha256": "34a8eed10665c41de00b4335775754df672393917a436bf4cfbc2a0c08b44bd3"
+  },
+  {
+    "path": "validation/v2/judge.md",
+    "action": "deidentified-text",
+    "sha256": "66a67b53541450e6eb675b38fa037f007ff3b11b7434d271aa74cb69c9c844cf"
+  },
+  {
+    "path": "validation/v2/questions.md",
+    "action": "deidentified-text",
+    "sha256": "ad6f905ed852488ce3a9b4053239c63eda539839ad484746f89a65af51335732"
+  },
+  {
+    "path": "validation/v2/runtime-new/references/casebook.md",
+    "action": "deidentified-text",
+    "sha256": "2dd187cb7efab234a662636e4f754cecdb839d3f7a3803b05ea75202ee303a11"
+  },
+  {
+    "path": "validation/v2/runtime-new/references/critical-review.md",
+    "action": "deidentified-text",
+    "sha256": "fa7cf1d55dfb1537e4e0ddc04e4f9c96f6f761630438e99954b952550168fe2f"
+  },
+  {
+    "path": "validation/v2/runtime-new/references/voice.md",
+    "action": "deidentified-text",
+    "sha256": "4b53eebbb8b6b1b73309dc38073696a056847560613cf59bf04fe2abf23f2f3b"
+  },
+  {
+    "path": "validation/v2/runtime-new/SKILL.snapshot.md",
+    "action": "deidentified-text",
+    "sha256": "38f04f7910296851ddda071e5eff6b32d70a11babbfd8ba476762417bb71085e"
+  },
+  {
+    "path": "validation/v2/runtime-old/references/casebook.md",
+    "action": "deidentified-text",
+    "sha256": "34e642fd25b57305b3ca4c2a496a35b4a7e81634d1caa6d04207ab9e6f467495"
+  },
+  {
+    "path": "validation/v2/runtime-old/references/voice.md",
+    "action": "deidentified-text",
+    "sha256": "3196148be291c42e2682f0585b263add2d0b3c10ff1eaa4b5a228eba47cbc12e"
+  },
+  {
+    "path": "validation/v2/runtime-old/SKILL.snapshot.md",
+    "action": "deidentified-text",
+    "sha256": "7b4f67b8aa9c4e478c9682d79ea4ee048219b41fe34c7d681d8838b451122698"
+  },
+  {
+    "path": "validation/v2/structure-check.txt",
+    "action": "unchanged-text",
+    "sha256": "77777870ea5f9253f10962abe9674057bf91ef33960edcfd29a55880d8cd7584"
+  },
+  {
+    "path": "PUBLICATION_NOTES.md",
+    "action": "publication-document",
+    "sha256": "2bd300c353f39f8e641c7fd8088e58d6a996923ab54eed6f3f4d3df3e8f44fd9"
+  },
+  {
+    "path": "references/public-methods.md",
+    "action": "publication-document",
+    "sha256": "7a75ecdd40c2151f16c7b7f3e8010fbf2bd3887f1e1982a95e39ae2a3a4d59bd"
+  }
+]
